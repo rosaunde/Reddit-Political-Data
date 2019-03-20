@@ -1,0 +1,3 @@
+Comments are formatted as:{"author":"","body":"","created_utc":,"score":,"subreddit":""}
+
+Submissions are formatted as: {"author":"","created_utc":,"num_comments":,"score":,"selftext":"","subreddit":"","title":""}
